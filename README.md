@@ -4,17 +4,10 @@ Foundations > Low-level programming & Algorithm > Data structures and Algorithms
 ---
 
 ### Project author
-Alexandre Gautier
-
-### Assignment dates
-06-11-2020 to 06-18-2020
+Fatimazahrae Graini
 
 ### Description
-Fourth team project. Introduction to popular sorting algorithms, and using big O notation to indicate time and space complexity.
-
-### Note
-This project was created in a repository separate from [`holbertonschool-low_level_programming`](https://github.com/allelomorph/holbertonschool-low_level_programming), where the other projects from this section are located.
-
+Fourth team project. Introduction to popular sorting algorithms, and using big O notation to indicate time and space complexity
 ### Requirements
 * You are not allowed to use global variables
 * Unless specified otherwise, you are not allowed to use the standard library. Any use of functions like `printf`, `puts`, … is totally forbidden.
